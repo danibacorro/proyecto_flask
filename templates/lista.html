@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}Búsqueda - Dani Baco{% endblock %}
+{% block content %}
+
+<h1 style="text-align: center;">Resultados de la búsqueda</h1>
+
+{% if listado %}
+<div class="container">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Modelo</th>
+                <th>Consumo medio</th>
+                <th>Más info</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for lista in listado %}
+            <tr>
+                <td>{{lista.modelo}}</td>
+                <td>{{lista.consumo_combinado}}</td>
+                <td><a href="{{url_for('detalle', id=lista.id)}}">Detalle</a></td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% else %}
+<p style="text-align: center;">No se encontraron resultados.</p>
+{% endif %}
+
+{% endblock %}
