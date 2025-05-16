@@ -4,7 +4,8 @@
     "fecha": "2025-05-06",
     "pruebas": [
       {
-        "modelo": "Toyota Camry 2025",
+        "id": "coche_1",
+        "modelo": "Toyota Yaris",
         "asistencia_conductor": [
           "ABS",
           "Control de tracción",
@@ -34,7 +35,8 @@
         }
       },
       {
-        "modelo": "Ford Mustang 2025",
+        "id": "coche_2",
+        "modelo": "Ford Mustang",
         "asistencia_conductor": [
           "ABS",
           "Control de tracción",
@@ -70,7 +72,8 @@
     "fecha": "2025-05-10",
     "pruebas": [
       {
-        "modelo": "Honda Accord 2025",
+        "id": "coche_3",
+        "modelo": "Honda Accord",
         "asistencia_conductor": [
           "ABS",
           "Control de tracción",
@@ -100,7 +103,8 @@
         }
       },
       {
-        "modelo": "Chevrolet Malibu 2025",
+        "id": "coche_4",
+        "modelo": "Chevrolet Malibu",
         "asistencia_conductor": [
           "ABS",
           "Control de tracción",
@@ -136,7 +140,8 @@
     "fecha": "2025-05-16",
     "pruebas": [
       {
-        "modelo": "Toyota Camry 2025",
+        "id": "coche_5",
+        "modelo": "Toyota Camry",
         "asistencia_conductor": [
           "ABS",
           "Control de tracción",
@@ -166,7 +171,8 @@
         }
       },
       {
-        "modelo": "Ford Mustang 2025",
+        "id": "coche_6",
+        "modelo": "Ford Focus",
         "asistencia_conductor": [
           "ABS",
           "Control de tracción",
@@ -202,7 +208,8 @@
     "fecha": "2025-05-20",
     "pruebas": [
       {
-        "modelo": "Hyundai Sonata 2025",
+        "id": "coche_7",
+        "modelo": "Hyundai Tucson",
         "asistencia_conductor": [
           "ABS",
           "Control de tracción",
@@ -232,7 +239,8 @@
         }
       },
       {
-        "modelo": "Mazda 6 2025",
+        "id": "coche_8",
+        "modelo": "Mazda 3",
         "asistencia_conductor": [
           "ABS",
           "Control de tracción",
@@ -268,7 +276,8 @@
     "fecha": "2025-05-22",
     "pruebas": [
       {
-        "modelo": "Hyundai Sonata 2025",
+        "id": "coche_9",
+        "modelo": "Hyundai Sonata",
         "asistencia_conductor": [
           "ABS",
           "Control de tracción",
@@ -298,7 +307,8 @@
         }
       },
       {
-        "modelo": "Mazda 6 2025",
+        "id": "coche_10",
+        "modelo": "Mazda 6",
         "asistencia_conductor": [
           "ABS",
           "Control de tracción",
@@ -334,7 +344,8 @@
     "fecha": "2025-05-25",
     "pruebas": [
       {
-        "modelo": "Ford Explorer 2025",
+        "id": "coche_11",
+        "modelo": "Ford Explorer",
         "asistencia_conductor": [
           "ABS",
           "Control de tracción",
@@ -364,7 +375,8 @@
         }
       },
       {
-        "modelo": "Toyota Corolla 2025",
+        "id": "coche_12",
+        "modelo": "Toyota Corolla",
         "asistencia_conductor": [
           "ABS",
           "Control de tracción",
@@ -400,7 +412,8 @@
     "fecha": "2025-05-26",
     "pruebas": [
       {
-        "modelo": "Audi A4 2025",
+        "id": "coche_13",
+        "modelo": "Audi A5",
         "asistencia_conductor": [
           "Asistente de mantenimiento de carril",
           "Cámara de reversa",
@@ -430,7 +443,8 @@
         }
       },
       {
-        "modelo": "Renault Talisman 2025",
+        "id": "coche_14",
+        "modelo": "Renault Clio",
         "asistencia_conductor": [
           "Alerta de colisión frontal",
           "Cámara de reversa",
@@ -466,7 +480,8 @@
     "fecha": "2025-05-27",
     "pruebas": [
       {
-        "modelo": "Subaru Legacy 2025",
+        "id": "coche_15",
+        "modelo": "Subaru Impreza",
         "asistencia_conductor": [
           "Monitoreo de punto ciego",
           "Control de tracción",
@@ -496,7 +511,8 @@
         }
       },
       {
-        "modelo": "Mercedes-Benz C-Class 2025",
+        "id": "coche_16",
+        "modelo": "Mercedes-Benz A-Class",
         "asistencia_conductor": [
           "ABS",
           "Monitoreo de punto ciego",
@@ -532,7 +548,8 @@
     "fecha": "2025-05-28",
     "pruebas": [
       {
-        "modelo": "Skoda Superb 2025",
+        "id": "coche_17",
+        "modelo": "Skoda Rapid",
         "asistencia_conductor": [
           "Reconocimiento de señales de tráfico",
           "Control crucero adaptativo",
@@ -562,7 +579,8 @@
         }
       },
       {
-        "modelo": "Peugeot 508 2025",
+        "id": "coche_18",
+        "modelo": "Peugeot 5008",
         "asistencia_conductor": [
           "ABS",
           "Monitoreo de punto ciego",
@@ -598,7 +616,8 @@
     "fecha": "2025-05-29",
     "pruebas": [
       {
-        "modelo": "Subaru Legacy 2025",
+        "id": "coche_19",
+        "modelo": "Subaru Legacy",
         "asistencia_conductor": [
           "Alerta de cambio de carril",
           "Asistente de mantenimiento de carril",
@@ -628,7 +647,8 @@
         }
       },
       {
-        "modelo": "Mercedes-Benz C-Class 2025",
+        "id": "coche_20",
+        "modelo": "Mercedes-Benz E-Class",
         "asistencia_conductor": [
           "Control de tracción",
           "Alerta de colisión frontal",
@@ -664,7 +684,8 @@
     "fecha": "2025-05-30",
     "pruebas": [
       {
-        "modelo": "Mercedes-Benz C-Class 2025",
+        "id": "coche_21",
+        "modelo": "Mercedes-Benz B-Class",
         "asistencia_conductor": [
           "Monitoreo de punto ciego",
           "Control crucero adaptativo",
@@ -694,7 +715,8 @@
         }
       },
       {
-        "modelo": "Peugeot 508 2025",
+        "id": "coche_22",
+        "modelo": "Peugeot 208",
         "asistencia_conductor": [
           "Cámara de reversa",
           "Alerta de colisión frontal",
@@ -724,7 +746,8 @@
         }
       },
       {
-        "modelo": "Nissan Altima 2025",
+        "id": "coche_23",
+        "modelo": "Nissan Qashqai",
         "asistencia_conductor": [
           "Alerta de cambio de carril",
           "Cámara de reversa",
@@ -760,7 +783,8 @@
     "fecha": "2025-05-31",
     "pruebas": [
       {
-        "modelo": "Mercedes-Benz C-Class 2025",
+        "id": "coche_24",
+        "modelo": "Mercedes-Benz C-Class",
         "asistencia_conductor": [
           "Control crucero adaptativo",
           "Control de tracción",
@@ -790,7 +814,8 @@
         }
       },
       {
-        "modelo": "Nissan Altima 2025",
+        "id": "coche_25",
+        "modelo": "Nissan Altima",
         "asistencia_conductor": [
           "Monitoreo de punto ciego",
           "Control crucero adaptativo",
@@ -820,7 +845,8 @@
         }
       },
       {
-        "modelo": "Peugeot 508 2025",
+        "id": "coche_26",
+        "modelo": "Peugeot 508",
         "asistencia_conductor": [
           "Alerta de cambio de carril",
           "Reconocimiento de señales de tráfico",
@@ -856,7 +882,8 @@
     "fecha": "2025-06-01",
     "pruebas": [
       {
-        "modelo": "Volvo S60 2025",
+        "id": "coche_27",
+        "modelo": "Volvo S60",
         "asistencia_conductor": [
           "Alerta de colisión frontal",
           "Cámara de reversa",
@@ -886,7 +913,8 @@
         }
       },
       {
-        "modelo": "Kia Optima 2025",
+        "id": "coche_28",
+        "modelo": "Kia Optima",
         "asistencia_conductor": [
           "Control de tracción",
           "Asistente de mantenimiento de carril",
@@ -922,7 +950,8 @@
     "fecha": "2025-06-02",
     "pruebas": [
       {
-        "modelo": "Volvo S60 2025",
+        "id": "coche_29",
+        "modelo": "Volvo S40",
         "asistencia_conductor": [
           "Reconocimiento de señales de tráfico",
           "ABS",
@@ -952,7 +981,8 @@
         }
       },
       {
-        "modelo": "Renault Talisman 2025",
+        "id": "coche_30",
+        "modelo": "Renault Captur",
         "asistencia_conductor": [
           "Reconocimiento de señales de tráfico",
           "Asistente de mantenimiento de carril",
@@ -982,7 +1012,8 @@
         }
       },
       {
-        "modelo": "Skoda Superb 2025",
+        "id": "coche_31",
+        "modelo": "Skoda Superb",
         "asistencia_conductor": [
           "Control crucero adaptativo",
           "Control de tracción",
@@ -1018,7 +1049,8 @@
     "fecha": "2025-06-03",
     "pruebas": [
       {
-        "modelo": "Audi A4 2025",
+        "id": "coche_32",
+        "modelo": "Audi A4",
         "asistencia_conductor": [
           "Control de tracción",
           "Monitoreo de punto ciego",
@@ -1048,7 +1080,8 @@
         }
       },
       {
-        "modelo": "Peugeot 508 2025",
+        "id": "coche_33",
+        "modelo": "Peugeot 308",
         "asistencia_conductor": [
           "Alerta de cambio de carril",
           "Reconocimiento de señales de tráfico",
@@ -1078,7 +1111,8 @@
         }
       },
       {
-        "modelo": "Volkswagen Passat 2025",
+        "id": "coche_34",
+        "modelo": "Volkswagen Passat",
         "asistencia_conductor": [
           "Asistente de mantenimiento de carril",
           "Monitoreo de punto ciego",
@@ -1114,7 +1148,8 @@
     "fecha": "2025-06-04",
     "pruebas": [
       {
-        "modelo": "Volvo S60 2025",
+        "id": "coche_35",
+        "modelo": "Volvo S60",
         "asistencia_conductor": [
           "Monitoreo de punto ciego",
           "Alerta de colisión frontal",
@@ -1144,7 +1179,8 @@
         }
       },
       {
-        "modelo": "BMW Serie 3 2025",
+        "id": "coche_36",
+        "modelo": "BMW Serie 3",
         "asistencia_conductor": [
           "Control crucero adaptativo",
           "ABS",
