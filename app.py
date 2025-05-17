@@ -1,6 +1,5 @@
 from flask import Flask, render_template, request
 import json
-import os
 
 app = Flask(__name__)	
 
@@ -31,4 +30,4 @@ def lista():
     return render_template('lista.html', listado=listado)
 
 if __name__ == "__main__":
-    app.run(debug=True, port=os.getenv("PORT", default=5000))
+    app.run()
