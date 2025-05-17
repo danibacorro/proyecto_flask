@@ -30,4 +30,4 @@ def lista():
     return render_template('lista.html', listado=listado)
 
 if __name__ == "__main__":
-    app.run()
+    app.run(port=5000)
