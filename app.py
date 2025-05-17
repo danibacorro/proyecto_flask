@@ -21,13 +21,22 @@ def lista():
     nombre = request.form.get('buscador', '').lower()
     for coche in coches_json:
         for prueba in coche["pruebas"]:
-            if nombre in prueba["modelo"].lower() or nombre == '':
+            if prueba["modelo"].lower().startswith(nombre) or nombre == '':
                 listado.append({
                     "id": prueba["id"],
                     "modelo": prueba["modelo"],
                     "consumo_combinado": prueba["consumo"]["combinado"]
                 })
     return render_template('lista.html', listado=listado)
+
+@app.route('/detalle/<id>')
+def detalle(id):
+    for item in coches_json:
+        for prueba in item["pruebas"]:
+            if prueba["id"] == id:
+                return render_template('detalle.html', prueba=prueba)
+    return "Error 404. Este modelo no existe.", 404
+
 
 if __name__ == "__main__":
     app.run()
