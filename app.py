@@ -29,4 +29,5 @@ def lista():
                 })
     return render_template('lista.html', listado=listado)
 
-app.run("0.0.0.0",5000,debug=True)
+if __name__ == "__main__":
+    app.run()
